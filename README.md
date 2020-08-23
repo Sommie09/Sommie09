@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'm Chisom :relaxed:
 
-<!--
-**Sommie09/Sommie09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Mobile Developer who loves building software solutions that run on mobile devices!
 
-Here are some ideas to get you started:
+> “Your mobile device has quickly become the easiest portal into your digital self.” - Phil Nickinson
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Asides developing for mobile phones, I love community building, managing IT projects and being the best version of myself.
+
+- 🔭 I’m currently working on HydraMail (A voice-based email application for the visually challenged)
+- 🌱 I’m currently learning best practices in developing mobile applications
+- 👯 I’m looking to collaborate on innovative mobile solutions
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love cooking!
+
