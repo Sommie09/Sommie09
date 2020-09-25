@@ -11,5 +11,5 @@ Asides developing for mobile phones, I love community building, managing IT proj
 - :earth_africa: Actively contributing to Mentorship Android on AnitaB. Org
 - 👯 I’m looking to collaborate on innovative mobile solutions
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love cooking!
+- ⚡ Fun fact: I love cooking and playing the violin!
 
