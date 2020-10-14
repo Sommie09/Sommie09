@@ -1,6 +1,6 @@
 ### Hi, I'm Chisom :relaxed:
 
-I'm a Mobile Developer who loves building software solutions that run on mobile devices!
+I am a Mobile Developer who loves building software solutions that run on mobile devices!
 
 > “Your mobile device has quickly become the easiest portal into your digital self.” - Phil Nickinson
 
