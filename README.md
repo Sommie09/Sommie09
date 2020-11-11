@@ -13,3 +13,5 @@ Asides developing for mobile phones, I love community building, managing IT proj
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love cooking and playing the violin!
 
+P/S: I'm also avaliable for full-time Mobile Engineering roles, check out my work!
+
