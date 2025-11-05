@@ -8,7 +8,7 @@ I love technology and learning new things because it's my superpower for innovat
 I started my career as an Android Developer (which explains why I have alot of Android repos, lol), and then I launched my first app on [playstore](https://play.google.com/store/apps/details?id=com.chisom.igboamaka)📚
 
 ✅ **In 2021:**
-I built my first data pipeline and I fell in love with Data Engineering, since then I've specialised mostly on Big Data!
+I built my first data pipeline and I fell in love with Data Engineering, since then I've specialised mostly on Big Data!!
 
 ✅ **In 2025:**
 I'm currently writing my [second book](https://www.amazon.co.uk/Data-Engineering-Beginners-Tech-Today/dp/139432541X) on data engineering for beginners! (Published by Wiley Global✨)
