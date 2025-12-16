@@ -11,7 +11,7 @@ I started my career as an Android Developer (which explains why I have alot of A
 I built my first data pipeline and I fell in love with Data Engineering, since then I've specialised mostly on Big Data!!
 
 ✅ **In 2025:**
-I'm currently writing my [second book](https://www.amazon.co.uk/Data-Engineering-Beginners-Tech-Today/dp/139432541X) on data engineering for beginners! (Published by Wiley Global✨)
+I recently published my [second book](https://www.amazon.co.uk/Data-Engineering-Beginners-Tech-Today/dp/139432541X) on data engineering for beginners! (Published by Wiley Global✨)
 and pursing a Masters in Computer Science with a specialisation in AI at [Georgia Tech, Atlanta](https://www.gatech.edu/), US🚀
 
 **Career Philosophies**: Being an owner, having a growth mindset, and teamwork!
