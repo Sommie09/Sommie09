@@ -1,6 +1,7 @@
 ### Hi, I'm Chisom :relaxed:
 
-I am a Software Engineer working at the intersection of product, data and applied AI. I'm also a Multi-Published Author, Speaker and Creator on YouTube 👩🏽‍💻
+I am a Software Engineer working at the intersection of product, data and applied AI. ✨
+I'm also a Multi-Published Author, Speaker and Creator on YouTube 👩🏽‍💻
 
 I love technology and learning new things because it's my superpower for innovating and solving problems🚀
 
