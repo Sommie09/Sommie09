@@ -15,7 +15,7 @@ I built my first data pipeline and I fell in love with Data Engineering, since t
 I recently published my [second book](https://www.amazon.co.uk/Data-Engineering-Beginners-Tech-Today/dp/139432541X) on data engineering for beginners! (Published by Wiley Global✨)
 and pursing a Masters in Computer Science with a specialisation in AI at [Georgia Tech, Atlanta](https://www.gatech.edu/), US🚀
 
-✅ **Presently**
+✅ **In 2026:**
 Currently an AI Engineering Fellow, focusing on performance engineering, MLOps infrastructure, and LLM post-training while building and experimenting with modern AI systems. 🔥
 
 **Career Philosophies**: Ownership, continuous growth, and teamwork.
