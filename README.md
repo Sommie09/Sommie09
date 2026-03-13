@@ -1,6 +1,6 @@
 ### Hi, I'm Chisom :relaxed:
 
-I am a Software Engineer working at the intersection of product, data and applied AI. ✨
+I am a Software Engineer working across of product, data platforms and applied AI. ✨
 I'm also a Multi-Published Author, Speaker and Creator on YouTube 👩🏽‍💻
 
 I love technology and learning new things because it's my superpower for innovating and solving problems🚀
@@ -15,11 +15,14 @@ I built my first data pipeline and I fell in love with Data Engineering, since t
 I recently published my [second book](https://www.amazon.co.uk/Data-Engineering-Beginners-Tech-Today/dp/139432541X) on data engineering for beginners! (Published by Wiley Global✨)
 and pursing a Masters in Computer Science with a specialisation in AI at [Georgia Tech, Atlanta](https://www.gatech.edu/), US🚀
 
-**Career Philosophies**: Being an owner, having a growth mindset, and teamwork!
+✅ **Presently**
+Currently an AI Engineering Fellow, focusing on performance engineering, MLOps infrastructure, and LLM post-training while building and experimenting with modern AI systems. 🔥
+
+**Career Philosophies**: Ownership, continuous growth, and teamwork.
 
 - 👩🏽‍💻To know more about me, check out my [Website](https://www.chisomnwokwu.com/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love cooking and playing the violin!
 
-**P/S:** I'm available for conversations around Big Data, Software Engineering, Agentic AI, LLM's and Career Tips🎤
+**P/S:** I'm available for conversations around Data Platforms, AI Engineering, Agentic Systems, LLM's and Career Tips🎤
 
