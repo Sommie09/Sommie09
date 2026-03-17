@@ -3,8 +3,6 @@
 I am a Software Engineer working across of product, data platforms and applied AI. ✨
 I'm also a Multi-Published Author, Speaker and Creator on YouTube 👩🏽‍💻
 
-I love technology and learning new things because it's my superpower for innovating and solving problems🚀
-
 ✅ **In 2019:**
 I started my career as an Android Developer (which explains why I have alot of Android repos, lol), and then I launched my first app on [playstore](https://play.google.com/store/apps/details?id=com.chisom.igboamaka)📚
 
